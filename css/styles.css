@@ -6,7 +6,7 @@
 }
 
 .body {
-font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+font-family: 'Oswald', sans-serif;
 }
 
 .jumbotron {
@@ -28,7 +28,7 @@ background-image:url("../images/sundown.JPG");
 }
 
 .image {
-	width: 99%;
+	width: 100%;
 	float: left;
 	margin-top: 10px;
 	margin-right: 3px;
@@ -37,7 +37,7 @@ background-image:url("../images/sundown.JPG");
 }
 
 .bubbles { 
-	width: 99%;
+	width: 100%;
 	float: left;
 	margin-top: 10px;
 	margin-right: 3px;
@@ -47,7 +47,7 @@ background-image:url("../images/sundown.JPG");
 }
 
 .dolls {
-	width: 99%;
+	width: 100%;
 	float: left;
 	margin-top: 10px;
 	margin-right: 3px;
@@ -61,7 +61,7 @@ background-image:url("../images/sundown.JPG");
 }
 
 .dawn { 
-	width: 99%;
+	width: 100%;
 	float: right;
 	margin-top: 10px;
 	margin-right: 1px;
@@ -70,7 +70,7 @@ background-image:url("../images/sundown.JPG");
 }
 
 .unicorns { 
-	width: 99%;
+	width: 100%;
 	float: right;
 	margin-top: 10px;
 	margin-right: 1px;
@@ -79,7 +79,7 @@ background-image:url("../images/sundown.JPG");
 }
 
 .city {
-	width: 99%;
+	width: 100%;
 	float: right;
 	margin-top: 10px;
 	margin-right: 1px;
@@ -92,23 +92,24 @@ background-image:url("../images/sundown.JPG");
 }
 
 .ninth { 
+	width: 100%;
+		height: auto;
 	vertical-align: middle;
-	width: 300px;
-	height: 480px;
 	margin-top: 10px;
 }
 
 .circe { 
+	width: 100%;
+	height: auto;
 	vertical-align: middle;
-width: 300px;
-	height: 480px;
-margin-top: 10px;}
+	margin-top: 10px;
+}
 
 .tsoe { 
+	width: 100%;
+	height: auto;
 	vertical-align: middle;
-width: 300px;
-	height: 480px;
-		margin-top: 10px;
+	margin-top: 10px;
 }
 
 .leigh { 
